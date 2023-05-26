@@ -1,0 +1,27 @@
+.ColorPicker__option {
+  display: inline-block;
+  padding: 30px;
+  border: none;
+  margin-left: 10px;
+  cursor: pointer;
+  transition: transform 0.3s;
+}
+.ColorPicker {
+  border: 1px solid green;
+}
+.ColorPickertitle {
+  margin-left: 40px;
+  color: blue;
+}
+.qqq {
+  margin-bottom: 20px;
+}
+.ColorPicker {
+  width: 500px;
+}
+.ColorPicker__option:active {
+  transform: scale(1.1);
+}
+.www {
+  border: 5px solid black;
+}
